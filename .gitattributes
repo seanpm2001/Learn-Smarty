@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Smarty source file
+*.tpl linguist-detectable=true
+*.tpl linguist-documentation=false
+*.tpl linguist-language=Smarty
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -165,6 +169,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2022, Wednesday, October 5th at 4:58 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
